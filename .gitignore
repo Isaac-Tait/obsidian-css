@@ -1,0 +1,9 @@
+*.jpg
+*.md
+.obsidian
+
+# Book Sections
+Part\ I/
+Part\ II/
+Part\ III/
+Part\ IV/
