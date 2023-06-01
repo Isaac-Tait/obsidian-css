@@ -9,15 +9,15 @@ Last Update:
 :root {
   --font-monospace: 'Source Code Pro', monospace;
 
-  --font-modern: 'Modern Antiqua';
+  --wws-font-modern: "Modern Antiqua";
 
-  --font-raleway: 'Raleway';
+  --wws-font-raleway: "Raleway";
 }
    
 .published-container {
-     --font-text-theme: var(--font-modern);
-     --page-title-variant: var(--font-raleway);
-   }
+     --font-text-theme: var(--wws-font-modern);
+     --page-title-variant: var(--wws-font-raleway);
+}
 
 /*-----------------------------------------*/
 /* Beginning of main theme, extra functionality can be added above */
