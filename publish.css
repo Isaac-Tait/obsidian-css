@@ -13,12 +13,12 @@ body {
   --wws-font-tags: var(--wws-header-font);
   --wws-font-callout-title: var(--wws-header-font);
 
-  --h1-font: var(--wws-header-font);
-  --h2-font: var(--wws-header-font);
-  --h3-font: var(--wws-header-font);
-  --h4-font: var(--wws-header-font);
-  --h5-font: var(--wws-header-font);
-  --h6-font: var(--wws-header-font);
+  --h1-font: var(--wws-font-raleway);
+  --h2-font: var(--wws-font-raleway);
+  --h3-font: var(--wws-font-raleway);
+  --h4-font: var(--wws-font-raleway);
+  --h5-font: var(--wws-font-raleway);
+  --h6-font: var(--wws-font-raleway);
 
   --font-text-theme: var(--wws-font-text);
   --font-monospace-theme: var(--wws-font-monospace);
