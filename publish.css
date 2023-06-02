@@ -25,7 +25,12 @@ body {
   --font-interface-theme: var(--wws-font-text);
   --font-mermaid: var(--wws-font-monospace);
 
-  --footer-display: none;
+  --footer-display: block;
+
+  @media screen and (max-width: 750px) {
+    /* ... rules and variables for mobile devices and smaller */
+    --footer-display: none;
+  }
 }
 
 .published-container {
@@ -106,7 +111,12 @@ body {
   --outline-heading-weight-active: var(--font-semibold);
 
   /* Footer */
-  --footer-display: none;
+  --footer-display: block;
+
+  @media screen and (max-width: 750px) {
+    /* ... rules and variables for mobile devices and smaller */
+    --footer-display: none;
+  }
 }
 
 /*-----------------------------------------*/
