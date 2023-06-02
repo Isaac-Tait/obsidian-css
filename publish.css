@@ -24,6 +24,8 @@ body {
   --font-monospace-theme: var(--wws-font-monospace);
   --font-interface-theme: var(--wws-font-text);
   --font-mermaid: var(--wws-font-monospace);
+
+  --footer-display: none;
 }
 
 .published-container {
